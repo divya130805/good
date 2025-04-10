@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii i am the bad
+=======
+hii i am the loosu
+>>>>>>> 122134df6e80c32f850840e8bf9380e5450b4b03
 divya is good
